@@ -16,6 +16,7 @@ import {
   KeyFeatures,
   LandingPage,
   LoginPage,
+  MessagingPage,
   Paperless,
   RegistrationPage,
   Resources,
@@ -53,6 +54,7 @@ function App() {
         <Route path="registration" element={<RegistrationPage />} />
         <Route path="forgot-password" element={<ForgotPasswordPage />} />
         <Route path="dashboard" element={<DashboardPage />} />
+        <Route path="message" element={<MessagingPage />} />
       </Routes>
     </>
   );

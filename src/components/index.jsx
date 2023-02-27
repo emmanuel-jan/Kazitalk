@@ -20,3 +20,4 @@ export { default as Resources } from "./pages/Resources/Resources";
 export { default as AboutUs } from "./pages/AboutUs/AboutUs";
 export { default as ContactUs } from "./pages/ContactUs/ContactUs";
 export { default as DashboardPage } from "./pages/DashboardPage/DashboardPage";
+export { default as MessagingPage } from "./pages/MessagingPage/MessagingPage";
